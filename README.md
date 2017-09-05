@@ -10,4 +10,4 @@
 - BDP数据分析平台
 - 多知乎账号防封号
 
-详细教程可见[-夏天](http://caoxuhua.com)
+详细教程可见[-夏天](http://caoxuhua.cn)
